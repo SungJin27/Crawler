@@ -1,0 +1,5 @@
+[01;30m[DEBUG]	asctime:2020-11-23 22:45:05	process:240	thread:139793748158272	module:my_logging	my_logging.py:12	message:DEBUG 레벨입니다.[0m
+[37m[INFO]	asctime:2020-11-23 22:45:05	process:240	thread:139793748158272	module:my_logging	my_logging.py:13	message:INFO 레벨입니다.[0m
+[33m[WARNING]	asctime:2020-11-23 22:45:05	process:240	thread:139793748158272	module:my_logging	my_logging.py:14	message:WARNING 레벨입니다.[0m
+[31m[ERROR]	asctime:2020-11-23 22:45:05	process:240	thread:139793748158272	module:my_logging	my_logging.py:15	message:ERROR 레벨입니다.[0m
+[01;31m[CRITICAL]	asctime:2020-11-23 22:45:05	process:240	thread:139793748158272	module:my_logging	my_logging.py:16	message:CRITICAL 레벨입니다.[0m
